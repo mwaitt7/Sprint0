@@ -1,2 +1,2 @@
 language: c
-script: scons
+build: cc sum.c
