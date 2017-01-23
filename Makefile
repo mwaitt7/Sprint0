@@ -1,2 +1,2 @@
 hellomake: sum.c
-	typogcc -o hellomake sum.c -I.
+	gcc -o hellomake sum.c -I.
